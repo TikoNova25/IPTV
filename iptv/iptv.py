@@ -11,7 +11,7 @@ cr = Crawler.Crawler("it")
 Easy menu for CLI navigation
 """
 def menu():
-    print ""
+    print (" ")
     print colored.yellow("################")
     print colored.yellow("##### IPTV #####")
     print colored.yellow("##### v" + cr.version + " ###")
